@@ -4,4 +4,5 @@ numpy==1.24.4
 openpyxl==3.1.2
 pydrive2==1.15.0
 PyYAML==6.0.1
-pillow==10.3.0
+pillow==9.5.0
+setuptools==69.5.1
